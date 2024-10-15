@@ -41,6 +41,9 @@ GROUP BY product_category;
 Benefits of AI SQL Engine with RAG:
 
 1.Improved Accuracy: By retrieving context from relevant sources, the engine can generate more accurate SQL code, even for complex queries.
+
 2.Efficiency: RAG helps handle incomplete or ambiguous queries, reducing the back-and-forth between users and the system.
+
 3.Scalability: RAG-enabled systems can scale to handle large knowledge bases or documentation sources, making them suitable for enterprise-level applications.
-4.The AI SQL Engine, powered by RAG, represents a significant leap in making databases more accessible and interactive for both technical and non-technical users alike.
+
+The AI SQL Engine, powered by RAG, represents a significant leap in making databases more accessible and interactive for both technical and non-technical users alike.
