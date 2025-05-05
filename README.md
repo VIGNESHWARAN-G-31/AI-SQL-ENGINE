@@ -52,7 +52,7 @@ AI SQL Assistant is a user-friendly web application that converts natural langua
      | 204        | Sarah | sarah@example.com   | 2024-01-22 |
 
 ### 🔧 Technical Flow
-```mermaid
+
 graph TD
     A[User Input] --> B(query_generator.py)
     B --> C[AI API]
