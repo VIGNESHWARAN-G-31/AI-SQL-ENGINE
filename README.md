@@ -132,4 +132,8 @@ AI_SQL_QUERY/
 --
 ## output
 1.![Screenshot 2025-05-05 174242](https://github.com/user-attachments/assets/31c4698a-756a-4058-962e-f2aedcb8a52f)
+2.![image](https://github.com/user-attachments/assets/67146121-94d4-4fb0-af74-aca6220fdc73)
+3.![image](https://github.com/user-attachments/assets/baeefd39-76ac-45d0-b6ac-26e0cc198cea)
+
+
 
