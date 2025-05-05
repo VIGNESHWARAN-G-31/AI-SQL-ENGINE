@@ -107,10 +107,15 @@ AI SQL Assistant is a user-friendly web application that converts natural langua
 - All queries require **manual approval** before execution
 - **Read-only mode** available for beginners
 - **Query validation** to prevent harmful operations
+--
+## output
+1.![Screenshot 2025-05-05 174242](https://github.com/user-attachments/assets/31c4698a-756a-4058-962e-f2aedcb8a52f)
+2.![image](https://github.com/user-attachments/assets/67146121-94d4-4fb0-af74-aca6220fdc73)
+3.![image](https://github.com/user-attachments/assets/baeefd39-76ac-45d0-b6ac-26e0cc198cea)
 
 --
 ## 📁 Project Structure
- ```bash
+```bash
 AI_SQL_QUERY/
 ├── app.py                  # Main Streamlit web application
 ├── query_generator.py      # AI-powered SQL query generation
@@ -118,12 +123,5 @@ AI_SQL_QUERY/
 ├── requirements.txt        # Python dependencies
       
 └── README.md               # Project documentation
-
---
-## output
-1.![Screenshot 2025-05-05 174242](https://github.com/user-attachments/assets/31c4698a-756a-4058-962e-f2aedcb8a52f)
-2.![image](https://github.com/user-attachments/assets/67146121-94d4-4fb0-af74-aca6220fdc73)
-3.![image](https://github.com/user-attachments/assets/baeefd39-76ac-45d0-b6ac-26e0cc198cea)
-
 
 
