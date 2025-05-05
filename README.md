@@ -19,7 +19,7 @@ AI SQL Assistant is a user-friendly web application that converts natural langua
 
 --
 ## 📁 Project Structure
-
+```bash
 AI_SQL_QUERY/
 ├── app.py                  # Main Streamlit web application
 ├── query_generator.py      # AI-powered SQL query generation
