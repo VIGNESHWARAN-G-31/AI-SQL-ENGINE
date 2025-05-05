@@ -30,7 +30,7 @@ AI_SQL_QUERY/
 --
 ## ⚙️ Configuration
 Ensure MySQL credentials are set in `app.py`:
-```python
+ ```python
 connection = pymysql.connect(
     host='localhost',
     user='root',
