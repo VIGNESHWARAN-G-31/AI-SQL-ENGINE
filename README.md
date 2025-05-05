@@ -51,18 +51,8 @@ AI SQL Assistant is a user-friendly web application that converts natural langua
      | 101        | John  | john@example.com    | 2024-01-15 |
      | 204        | Sarah | sarah@example.com   | 2024-01-22 |
 
-### 🔧 Technical Flow
-```bash
-graph TD
-    A[User Input] --> B(query_generator.py)
-    B --> C[AI API]
-    C --> D[SQL Output]
-    D --> E[User Approval]
-    E --> F(query_executor.py)
-    F --> G[MySQL Database]
-    G --> H[Pandas DataFrame]
-    H --> I[Streamlit Display]
 --
+
 ## ✅ Use Cases
 
 ### 🏢 For Business Teams
@@ -128,8 +118,6 @@ graph TD
 - **Read-only mode** available for beginners
 - **Query validation** to prevent harmful operations
 
-  
-
 --
 ## 📁 Project Structure
  ```bash
@@ -140,3 +128,8 @@ AI_SQL_QUERY/
 ├── requirements.txt        # Python dependencies
       
 └── README.md               # Project documentation
+
+--
+## output
+1.![Screenshot 2025-05-05 174242](https://github.com/user-attachments/assets/31c4698a-756a-4058-962e-f2aedcb8a52f)
+
