@@ -16,6 +16,7 @@ AI SQL Assistant is a user-friendly web application that converts natural langua
 - PyMySQL: Connect and interact with MySQL
 - Pandas: Display SQL results in tables
 -  Gemini API: Generate SQL from natural language
+
 --
 ## 📁 Project Structure
 
@@ -147,3 +148,4 @@ graph TD
 - All queries require **manual approval** before execution
 - **Read-only mode** available for beginners
 - **Query validation** to prevent harmful operations
+
