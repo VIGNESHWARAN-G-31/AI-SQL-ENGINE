@@ -28,30 +28,6 @@ AI_SQL_QUERY/
       
 └── README.md               # Project documentation
 --
-## 📦 Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/ai-sql-assistant.git
-    cd ai-sql-assistant
-    ```
-
-2. (Optional) Create a virtual environment:
-    ```bash
-    python -m venv venv
-    venv\Scripts\activate  # or source venv/bin/activate
-    ```
-
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Run the app:
-    ```bash
-    streamlit run app.py
-    ```
---
-
 ## ⚙️ Configuration
 Ensure MySQL credentials are set in `app.py`:
 ```python
