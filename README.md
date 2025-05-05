@@ -50,6 +50,7 @@ AI_SQL_QUERY/
     ```bash
     streamlit run app.py
     ```
+--
 
 ## ⚙️ Configuration
 Ensure MySQL credentials are set in `app.py`:
