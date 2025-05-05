@@ -76,16 +76,6 @@ AI SQL Assistant is a user-friendly web application that converts natural langua
 | **Prototyping**        | Test hypotheses by querying data with simple English questions           |
 | **Data Validation**    | Verify data quality and relationships through natural questions          |
 
-### Example Scenarios:
-```python
-# Marketing Team Example:
-"Show me customers from California who purchased in Q1 but haven't ordered since"
-
-# Product Team Example:  
-"What percentage of users complete onboarding within 7 days?"
-
-# Student Example:
-"Display all students with GPA above 3.5 and their course enrollments"
 --
 ## ✨ Key Features
 
