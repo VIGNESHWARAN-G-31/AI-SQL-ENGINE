@@ -17,17 +17,6 @@ AI SQL Assistant is a user-friendly web application that converts natural langua
 - Pandas: Display SQL results in tables
 -  Gemini API: Generate SQL from natural language
 --
---
-## ⚙️ Configuration
-Ensure MySQL credentials are set in `app.py`:
- ```python
-connection = pymysql.connect(
-    host='localhost',
-    user='root',
-    password='your_mysql_password',
-    port=3306
-)
---
 ## 💡 How It Works
 
 ### 🔄 Workflow Overview
