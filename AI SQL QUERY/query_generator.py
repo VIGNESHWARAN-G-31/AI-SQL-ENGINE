@@ -5,7 +5,7 @@ import json
 import requests
 
 # Set Gemini API Key
-os.environ["GEMINI_API_KEY"] = "AIzaSyC0uH3yhBpqZnsz_N9dr8FPEl9l4rpapQA"
+os.environ["GEMINI_API_KEY"] = "your_api_key"
 
 # Function to generate SQL from natural language
 def generate_sql(natural_language_query):
