@@ -7,6 +7,7 @@ from connection import get_connection
 from query_executor import execute_query
 from query_generator import generate_sql
 
+
 # Streamlit UI
 st.title(" AI SQL ENGINE ")
 
