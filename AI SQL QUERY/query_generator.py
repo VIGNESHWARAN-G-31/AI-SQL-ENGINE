@@ -31,7 +31,7 @@ def generate_sql(natural_language_query):
         "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent",
         headers=headers,
         data=json.dumps(data),
-        params={"key": os.environ["GEMINI_API_KEY"]},
+        params={"key": os.environ["YOUR_API_KEY"]},
     )
 
     try:
