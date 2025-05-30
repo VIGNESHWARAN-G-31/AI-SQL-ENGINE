@@ -9,7 +9,7 @@ def get_connection():
         conn = pymysql.connect(
             host='localhost',
             user='root',
-            password='Vignesh@2004',
+            password='YOUR_PASSWORD',
             port=3306
         )
         return conn
