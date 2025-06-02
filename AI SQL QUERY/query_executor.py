@@ -8,7 +8,7 @@ def execute_query(conn, sql_query):
         cursor = conn.cursor()
         cursor.execute(sql_query)
         conn.commit()
-        return "✅ Query executed successfully!"
+        return " Query executed successfully!"
     except pymysql.MySQLError as e:
         return f" MySQL Error: {e}"
     except Exception as e:
