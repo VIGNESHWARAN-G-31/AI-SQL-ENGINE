@@ -10,6 +10,6 @@ def execute_query(conn, sql_query):
         conn.commit()
         return "✅ Query executed successfully!"
     except pymysql.MySQLError as e:
-        return f"❌ MySQL Error: {e}"
+        return f" MySQL Error: {e}"
     except Exception as e:
-        return f"❌ Unexpected Error: {e}"
+        return f"Unexpected Error: {e}"
