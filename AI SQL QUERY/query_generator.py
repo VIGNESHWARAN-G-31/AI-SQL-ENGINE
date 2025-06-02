@@ -40,4 +40,4 @@ def generate_sql(natural_language_query):
         lines = [line for line in lines if not line.strip().startswith("--")]
         return "\n".join(lines).strip()
     except (KeyError, IndexError):
-        return "❌ Failed to generate SQL. Please try again."
+        return " Failed to generate SQL. Please try again."
